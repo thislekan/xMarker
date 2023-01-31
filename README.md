@@ -52,3 +52,5 @@ The App uses a React context in order to avoid unneccessary prop drilling. Some 
 - the UI could be improved
 
 ---
+
+the url for the project can be found [here](https://glittery-piroshki-6eec08.netlify.app/)
