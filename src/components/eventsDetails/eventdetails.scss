@@ -1,0 +1,13 @@
+.event-details {
+  &__wrapper {
+    .content {
+      display: flex;
+      margin-bottom: 2rem;
+      align-items: center;
+
+      p {
+        margin-left: 1rem;
+      }
+    }
+  }
+}
